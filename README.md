@@ -6,7 +6,8 @@
 - 🌱 Atualmente estou aprendendo 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<i class="devicon-mysql-plain"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" "height 10px" "width 10px"/>
+
 - 🤔 Estou procurando ajuda com Git/GitHyb
 
 - 💬 Pergunte-me sobre o que quiser!
