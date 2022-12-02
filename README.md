@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estou aprendendo: Java, Python e SQL
 
-- 🤔 Estou procurando ajuda com Git/GitHyb
+- 🤔 Estou procurando ajuda com Git e GitHub
 
 - 💬 Pergunte-me sobre o que quiser!
 
